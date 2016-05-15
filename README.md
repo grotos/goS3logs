@@ -10,7 +10,7 @@ This tool is halpful when you want to see visits to static site hosted on Amazon
 5. Create report with recent visits
 
 # Usage
-To use this tool you have to create a configuration file in the directory of binary.
+To use this tool you have to create a configuration file named "conf.json" in the directory of binary.
 The example file:
 
     {
